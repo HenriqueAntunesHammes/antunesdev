@@ -1,0 +1,79 @@
+@charset "UTF-8";
+@author "Henrique Antunes";
+
+.banner{
+	text-align: center;
+}
+.jumbotron{
+	height: 625px;
+	width: max;
+}
+
+#navbar{
+	background-color: #4E9FF1 !important;
+}
+
+#cc{
+	font-family: 'Playfair Display SC', serif;
+	font-size: 15px;
+}
+
+#img_bk_esquerda{
+		margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#background_esquerda{
+	height: 625px;
+	width: 100%;
+	background-image: url("https://www.splitshire.com/wp-content/uploads/2014/11/SplitShire-03692-1800x1200.jpg");
+}
+
+#espacamento_bk_esquerda{
+	margin-top: 50px;
+}
+
+#espacamento2_bk_esquerda{
+	margin-top: 40px;
+}
+
+#espacamento3_bk_esquerda{
+	margin-top: 40px;
+}
+
+#fundo{
+	background-image: url("img/background.png");
+}
+
+h1{
+	font-family: 'Playfair Display SC', serif;
+	background-color: #e9ecef;
+	font-size: 30px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+h3{
+	margin-top: -40px;
+	margin-bottom: 20px;
+	font-family: 'Playfair Display SC', serif;
+	font-size: 15px;
+}
+
+p {
+    font-size: 14px;
+		font-family: 'Poppins', sans-serif;
+		text-align: center;
+		margin-top: 30px;
+		color: #999999;
+}
+
+p span{
+    font-size: 16px;
+		font-family: 'Poppins', sans-serif;
+		text-align: justify;
+		color: #fff;;
+
+}
